@@ -6,7 +6,7 @@ Data Analyst/Scientist
 
 📫 How to reach me ritamsahu.safiabad@gmail.com
 
-⚡ Fun fact A Biologiest Turned IT Professional
+⚡ Fun fact A Biologiest Interested in Data Domain
 
 <!---
 ritamsahu/ritamsahu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
