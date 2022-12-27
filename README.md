@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @ritamsahu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+**Hi there👋, I'm Ritam**
+Data Analyst/Scientist
+
+
+🌱 I’m currently learning Tableau, Python, SQL, Excel
+
+📫 How to reach me ritamsahu.safiabad@gmail.com
+
+⚡ Fun fact A Biologiest Turned IT Professional
 
 <!---
 ritamsahu/ritamsahu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
